@@ -1,3 +1,6 @@
+![Uploading Captura de tela 2026-10-24 173833.png…]()
+
+
 # MoniBarragem
 
 Interface demonstrativa para monitoramento de instrumentos de barragem, construída com Next.js, React, TypeScript, Tailwind CSS e Recharts.

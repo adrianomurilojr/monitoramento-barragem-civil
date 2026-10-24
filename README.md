@@ -1,4 +1,3 @@
-![Uploading Captura de tela 2026-10-24 173833.png…]()
 
 
 # MoniBarragem
